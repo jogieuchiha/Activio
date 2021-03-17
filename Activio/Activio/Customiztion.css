@@ -1,0 +1,58 @@
+body {
+    position: relative;
+    background: linear-gradient(180deg, #21A1AD 0%, rgba(0, 232, 255, 0) 100%);
+}
+
+h1 {
+    text-align: center;
+    margin-top: 3%;
+    left: 10%;
+}
+
+.avatar {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -23%;
+}
+
+.icons1 {
+    display: block;
+    margin-left: 30%;
+    margin-right: auto;
+    margin-top: 4%;
+}
+
+.icons2 {
+    display: block;
+    margin-left: 65%;
+    margin-right: auto;
+    margin-top: -18%;
+}
+
+.Larrow {
+    position: relative;
+    margin-left: 33%;
+    margin-top: -21%;
+}
+
+
+.arrow {
+    position: relative;
+    margin-left: 62%;
+    margin-right: auto;
+    margin-top: -45%;
+}
+
+.bar {
+    margin-left: 30%;
+    margin-right: auto;
+    margin-top: 2%;
+}
+
+.scroll {
+    margin-left: 48%;
+    margin-right: auto;
+    margin-top: 2%;
+}
+

@@ -1,0 +1,102 @@
+html {
+    background-color: lightblue;
+}
+body {
+    position: relative;
+    background: linear-gradient(180deg, #21A1AD 0%, rgba(0, 232, 255, 0) 100%);
+    
+}
+
+p {
+    margin-top: -5.2%;
+    margin-left: 29%;
+    font-family: "Roboto";
+    font-size: 30px;
+}
+#messages{
+    background-color: #39DFD5; 
+    padding: 7px;
+}
+
+h2{
+    text-align: center;
+    font-family: "Risque";
+    font-size: 65px;
+}
+
+.card {
+    height:139px;
+}
+
+.card-body {
+    background-color: lightblue;
+}
+
+.Login {
+    color: lightgray;
+    margin-left: 1550px;
+}
+.kenny {
+    margin-top: -5.2%;
+    margin-left: 12%;
+    font-family: "Risque";
+    font-size: 30px;
+}
+
+
+.text1 {
+    margin-top: -1%;
+    margin-left: 12%;
+    font-family: "Risque";
+    font-size: 30px;
+}
+
+.time {
+    margin-left: 82%;
+    margin-top: -1%;
+    font-family: "Risque";
+}
+
+#KenTheRider {
+    width: 6%;
+    height: 100px;
+}
+
+#FakeMrBrady {
+    width: 6%;
+    height: 100px;
+}
+
+#QueenBeee {
+    width: 6%;
+    height: 100px;
+}
+
+#AmirKhan {
+    width: 6%;
+    height: 100px;
+}
+
+#unopened1 {
+    width: 3.5%;
+    margin-left: 82%;
+    margin-top: -8.2%;
+}
+
+#unopened2 {
+    width: 3.5%;
+    margin-left: 82%;
+    margin-top: -8.2%;
+}
+
+#unopened3 {
+    width: 3.5%;
+    margin-left: 82%;
+    margin-top: -8.2%;
+}
+
+#unopened4 {
+    width: 3.5%;
+    margin-left: 82%;
+    margin-top: -8.2%;
+}

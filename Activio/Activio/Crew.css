@@ -1,0 +1,107 @@
+﻿body {
+    max-width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background: linear-gradient(180deg, #21A1AD 0%, rgba(0, 232, 255, 0) 100%);
+}
+
+#title {
+    background-color: #39DFD5;
+    padding: 7px;
+}
+
+#message {
+    margin-left: 1700px;
+    margin-top: -4%;
+    width:70px;
+}
+
+h2 {
+    text-align: center;
+    font-family: "Risque";
+    font-size: 65px;
+}
+
+#name {
+    font-family: "Risque";
+    font-size: 35px;
+    margin-left: 1670px;
+}
+
+#headline {
+    margin-top: 3.2%;
+    font-family: "Risque";
+}
+
+.divider {
+    background-color: grey;
+    margin-top: 5%;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Risque";
+    font-size: 55px;
+    margin-top: 1%;
+}
+
+#guy {
+    margin-left: 100px;
+    margin-top: 1%;
+}
+#yellow {
+    margin-left: 100px;
+    margin-top: 1%;
+}
+#girl {
+    margin-left: 525px;
+    margin-top: 1%;
+}
+
+#Tommy {
+    font-family: "Risque";
+    font-size: 65px;
+    margin-left: 860px;
+    margin-top: 2%;
+}
+
+#Points2 {
+    font-family: "Risque";
+    font-size: 50px;
+    margin-left: 860px;
+    margin-top: 0%;
+}
+#Kenny {
+    font-family: "Risque";
+    font-size: 50px;
+    margin-left: 1180px;
+    margin-top: -7%;
+}
+#Points1 {
+    font-family: "Risque";
+    font-size: 50px;
+    margin-left: 1180px;
+    margin-top: 0%;
+}
+#Sandra {
+    font-family: "Risque";
+    font-size: 50px;
+    margin-left: 520px;
+    margin-top: -7.3%;
+}
+
+#Points3 {
+    font-family: "Risque";
+    font-size: 50px;
+    margin-left: 520px;
+    margin-top: 0%;
+}
+
+.Login {
+    color: lightgray;
+    margin-left: 1550px;
+}
+
+
+

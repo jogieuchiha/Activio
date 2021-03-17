@@ -1,0 +1,33 @@
+body {
+    position: relative;
+    background: linear-gradient(180deg, #21A1AD 0%, rgba(0, 232, 255, 0) 100%);
+}
+
+.card {
+    margin-top: 2%;
+    padding: 1%;
+    background-color: white;
+    
+}
+
+h1 {
+    margin-top: 2%;
+    
+}
+
+.xp {
+    margin-left: 30%;
+    
+}
+
+.pts {
+    margin-left: 30%;
+    
+}
+
+.scroll {
+    margin-top: 2%;
+    margin-left: 50%;
+}
+
+
